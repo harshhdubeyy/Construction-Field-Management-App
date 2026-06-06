@@ -152,13 +152,3 @@ Launch using:
 * Contractor management
 
 ---
-
-## License
-
-This project is intended for educational and portfolio purposes.
-
----
-
-Built with React Native, Expo, and TypeScript.
-
----
