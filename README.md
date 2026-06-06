@@ -160,3 +160,11 @@ This project is intended for educational and portfolio purposes.
 ---
 
 Built with React Native, Expo, and TypeScript.
+
+---
+
+## Author
+
+Harsh Dubey
+
+---
